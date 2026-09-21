@@ -48,6 +48,8 @@ patch2_offset=0xXXXXXXXX
 patch2_original=0xXXXXXXXX
 patch2_new=0xXXXXXXXX
 
+A ready-to-use `.cfg` file is included in the Releases section.
+
 The UUID and patch values must correspond to the supported game build.
 
 Credits
