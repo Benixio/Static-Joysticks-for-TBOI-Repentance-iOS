@@ -52,7 +52,9 @@ A ready-to-use `.cfg` file is included in the Releases section.
 
 The UUID and patch values must correspond to the supported game build.
 
-Credits
+## Acknowledgements
+
+Special thanks to **[emp0ry](https://github.com/emp0ry)** for his projects [**IsaacExternalItemDescriptionsiOS**](https://github.com/emp0ry/IsaacExternalItemDescriptionsiOS) and [**IsaacSteamSynciOS**](https://github.com/emp0ry/IsaacSteamSynciOS), which served as inspiration and as a foundation for this project.
 
 Developed with assistance from OpenAI Codex, ChatGPT, and Anthropic Claude.
 
