@@ -2,6 +2,10 @@
 
 A JIT-less static joystick tweak for **The Binding of Isaac: Repentance** on iOS, designed for use with **LiveContainer**.
 
+## Acknowledgements
+
+Special thanks to **[emp0ry](https://github.com/emp0ry)** for his projects [**IsaacExternalItemDescriptionsiOS**](https://github.com/emp0ry/IsaacExternalItemDescriptionsiOS) and [**IsaacSteamSynciOS**](https://github.com/emp0ry/IsaacSteamSynciOS), which served as inspiration and as a foundation for this project.
+
 ## Compatibility
 
 This tweak is specifically made for:
@@ -52,9 +56,7 @@ A ready-to-use `.cfg` file is included in the Releases section.
 
 The UUID and patch values must correspond to the supported game build.
 
-## Acknowledgements
-
-Special thanks to **[emp0ry](https://github.com/emp0ry)** for his projects [**IsaacExternalItemDescriptionsiOS**](https://github.com/emp0ry/IsaacExternalItemDescriptionsiOS) and [**IsaacSteamSynciOS**](https://github.com/emp0ry/IsaacSteamSynciOS), which served as inspiration and as a foundation for this project.
+Credits
 
 Developed with assistance from OpenAI Codex, ChatGPT, and Anthropic Claude.
 
