@@ -1,4 +1,4 @@
-# Static Joystick for The Binding of Isaac: Repentance iOS
+# Duque Sarten's Enhanced Joysticks for Isaac iOS
 
 A JIT-less static joystick tweak for **The Binding of Isaac: Repentance** on iOS, designed for use with **LiveContainer**.
 
